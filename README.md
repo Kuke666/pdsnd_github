@@ -13,5 +13,5 @@ This project shares my bikeshare.py project as part of udacity project.
 bikeshare.py 
 
 ### Credits
-Created by Lukas Dubsik,forked from repository pdsnd_github created by SudKul
+Created by Kuke666, forked from repository pdsnd_github created by SudKul
 
