@@ -7,7 +7,7 @@ This project was created 23.6.2021.
 Udacity Github project
 
 ### Description
-Describe what your project is about and what it does
+This project shares my bikeshare.py project as part of udacity project.
 
 ### Files used
 Include the files used
